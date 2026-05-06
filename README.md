@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Bienvenue%20sur%20mon%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="images/ban.png" />
 </p>
 
 <h1 align="center">Salut 👋 Moi c'est Jawad </h1>
