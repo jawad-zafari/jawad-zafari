@@ -50,10 +50,6 @@ Développeur Web étudiant à La Plateforme 🚀
 </p>
 
 ---
----
-
----
-
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
@@ -64,7 +60,6 @@ Développeur Web étudiant à La Plateforme 🚀
   </picture>
 </p>
 ---
-
 ## 🌐 Me contacter
 
 <p align="center">
