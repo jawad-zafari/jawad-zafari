@@ -19,11 +19,11 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Futur+Développeur+Full+Stack;Étudiant+à+La+Plateforme;Créateur+de+sites+internet" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Futur+D%C3%A9veloppeur+Full+Stack;%C3%89tudiant+%C3%A0+La+Plateforme;Cr%C3%A9ateur+de+sites+internet" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
 ---
 
