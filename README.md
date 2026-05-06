@@ -1,80 +1,66 @@
-<!-- Bannière -->
-<!-- Bannière -->
-<p align="center">
-  <img src="images/ban.png" alt="Banner" height="250"  width="1800"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Bienvenue%20sur%20mon%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 <h1 align="center">Salut 👋 Moi c'est Jawad </h1>
+<h3 align="center">Futur Développeur Full Stack | Étudiant à La Plateforme 🚀</h3>
 
-<h3 align="center">
-Développeur Web étudiant à La Plateforme 🚀
-</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jawad-zafari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jawad.zafari@laplateforme.io">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 À propos de moi
 
-- 🇫🇷 Étudiant développeur web chez La Plateforme
-- 💻 Passionné par le développement Front-End et Back-End
-- ⚛️ Je travaille avec React, JavaScript, PHP
-- 🌱 J’apprends actuellement des technologies modernes du web
-- 🎯 Objectif : devenir développeur Full Stack
+En pleine transition et apprentissage intensif, je me spécialise dans la création d'applications web performantes. Mon objectif est de maîtriser l'ensemble de la pile technologique pour concevoir des solutions innovantes.
+
+- 🎓 **Éducation :** Étudiant développeur web chez **La Plateforme**.
+- 💻 **Spécialité :** Développement **Front-End** et **Back-End**.
+- ⚛️ **Stack actuelle :** **React**, **JavaScript**, **PHP**.
+- 🌱 **En cours :** Apprentissage des technologies modernes pour devenir développeur **Full Stack**.
 
 ---
 
-## 🚀 Technologies & Outils
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,git,github,vscode" />
-
-</p>
-
----
-
-## 📊 GitHub Stats
-
- <p align="center">
-  <img height="150em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=jawad-zafari&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-zafari&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🧠 Langages les plus utilisés
-
-<p align="center">
-  <img height="150em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jawad-zafari&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
+## 🛠️ Technologies & Outils
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jawad-zafari/jawad-zafari/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jawad-zafari/jawad-zafari/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jawad-zafari/jawad-zafari/output/github-contribution-grid-snake.svg">
-  </picture>
+  <h4>Front-End</h4>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" title="Frontend Tools" />
+  <br>
+  <h4>Back-End & Outils</h4>
+  <img src="https://skillicons.dev/icons?i=php,git,github,vscode" title="Backend and Version Control" />
 </div>
 
 ---
 
-## 🌐 Me contacter
+## 📊 Statistiques GitHub
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jawad-zafari&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-zafari&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</div>
 
-<a href="https://www.linkedin.com/in/jawad-zafari">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+<br>
 
-<a href="mailto:jawad.zafari@laplateforme.io">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jawad-zafari&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</div>
 
-</p>
+---
+
+## 🐍 Contributions (Snake Animation)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jawad-zafari/jawad-zafari/output/github-contribution-grid-snake-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jawad-zafari/jawad-zafari/output/github-contribution-grid-snake.svg?v=3">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jawad-zafari/jawad-zafari/output/github-contribution-grid-snake.svg?v=3">
+  </picture>
+</div>
 
 ---
 
