@@ -52,6 +52,8 @@ Développeur Web étudiant à La Plateforme 🚀
 ---
 ---
 
+---
+
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
@@ -61,7 +63,6 @@ Développeur Web étudiant à La Plateforme 🚀
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jawad-zafari/jawad-zafari/output/dist/github-contribution-grid-snake.svg">
   </picture>
 </p>
-
 ---
 
 ## 🌐 Me contacter
