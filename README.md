@@ -1,7 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Bienvenue%20sur%20mon%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<!-- Bannière -->
+<!-- Bannière -->
+<p align="center">
+  <img src="images/ban.png" alt="Banner" height="250"  width="1800"/>
+</p>
 
 <h1 align="center">Salut 👋 Moi c'est Jawad </h1>
-<h3 align="center">Futur Développeur Full Stack | Étudiant à La Plateforme 🚀</h3>
+
+<h2 align="center">Futur Développeur Full Stack | Étudiant à La Plateforme 🚀</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jawad-zafari" target="_blank">
@@ -25,29 +30,24 @@ En pleine transition et apprentissage intensif, je me spécialise dans la créat
 
 ---
 
-## 🛠️ Technologies & Outils
+## 🚀 Technologies & Outils
 
-<div align="center">
-  <h4>Front-End</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" title="Frontend Tools" />
-  <br>
-  <h4>Back-End & Outils</h4>
-  <img src="https://skillicons.dev/icons?i=php,git,github,vscode" title="Backend and Version Control" />
-</div>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,php,git,github,vscode" />
+
+</p>
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jawad-zafari&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-zafari&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+ <div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jawad-zafari&show_icons=true&theme=tokyonight&hide_border=true" height="110" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-zafari&theme=tokyonight&hide_border=true" height="110" alt="GitHub Streak" />
 </div>
-
-<br>
-
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jawad-zafari&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jawad-zafari&layout=compact&theme=tokyonight&hide_border=true" height="110" alt="Top Languages" />
 </div>
 
 ---
