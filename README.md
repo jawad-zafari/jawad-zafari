@@ -6,7 +6,11 @@
 
 <h1 align="center">Salut 👋 Moi c'est Jawad </h1>
 
-<h2 align="center">Futur Développeur Full Stack | Étudiant à La Plateforme 🚀</h2>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Futur+D%C3%A9veloppeur+Full+Stack;%C3%89tudiant+%C3%A0+La+Plateforme;Cr%C3%A9ateur+de+sites+internet" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jawad-zafari" target="_blank">
@@ -16,14 +20,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
----
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Futur+D%C3%A9veloppeur+Full+Stack;%C3%89tudiant+%C3%A0+La+Plateforme;Cr%C3%A9ateur+de+sites+internet" alt="Typing SVG" />
-  </a>
-</div>
 
 ---
 
