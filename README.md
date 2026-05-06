@@ -46,7 +46,7 @@ Développeur Web étudiant à La Plateforme 🚀
 ## 🧠 Langages les plus utilisés
 
 <p align="center">
-  <img height="180em"
+  <img height="150em"
        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jawad-zafari&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
