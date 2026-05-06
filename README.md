@@ -41,8 +41,6 @@
 
 ---
 
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -53,7 +51,6 @@
 
 ---
 
----
 ## 📊 GitHub Stats
 
  <div align="center">
