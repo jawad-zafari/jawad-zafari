@@ -21,7 +21,8 @@
 
 ## 👨‍💻 À propos de moi
 
-En plein apprentissage du développement web, je me consacre à la création de sites internet modernes à travers mes projets d'études. Mon objectif est de maîtriser le Front-End et le Back-End pour concevoir des sites complets et devenir développeur Full Stack.
+<h3>En plein apprentissage du développement web, je me consacre à la création de sites internet modernes à travers mes projets d'études. Mon objectif est de maîtriser le Front-End et le Back-End pour concevoir des sites complets et devenir développeur Full
+</h3> Stack.
 
 - 🎓 **Éducation :** Étudiant développeur web chez **La Plateforme**.
 - 💻 **Spécialité :** Développement **Front-End** et **Back-End**.
