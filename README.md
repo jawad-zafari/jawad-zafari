@@ -19,6 +19,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Futur+Développeur+Full+Stack;Étudiant+à+La+Plateforme;Créateur+de+sites+internet" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
 ## 👨‍💻 À propos de moi
 
 <h3>En plein apprentissage du développement web, je me consacre à la création de sites internet modernes à travers mes projets d'études. Mon objectif est de maîtriser le Front-End et le Back-End pour concevoir des sites complets et devenir développeur Full
