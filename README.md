@@ -1,9 +1,9 @@
-<!-- Bannière -->
+<!-- 🌐 Bannière -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Bienvenue%20sur%20mon%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">Salut 👋 Moi c'est Jawad </h1>
+<h1 align="center">Salut 👋 Moi c'est Jawad</h1>
 
 <h3 align="center">
 Développeur Web étudiant à La Plateforme 🚀
@@ -15,8 +15,8 @@ Développeur Web étudiant à La Plateforme 🚀
 
 - 🇫🇷 Étudiant développeur web chez La Plateforme
 - 💻 Passionné par le développement Front-End et Back-End
-- ⚛️ Je travaille avec React, JavaScript, PHP
-- 🌱 J’apprends actuellement des technologies modernes du web
+- ⚛️ React / JavaScript / PHP
+- 🌱 En apprentissage continu des technologies web modernes
 - 🎯 Objectif : devenir développeur Full Stack
 
 ---
@@ -24,20 +24,19 @@ Développeur Web étudiant à La Plateforme 🚀
 ## 🚀 Technologies & Outils
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,php,git,github,vscode" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,git,github,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
- <p align="center">
+<p align="center">
   <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=jawad-zafari&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-zafari&theme=tokyonight&hide_border=true"/>
+       src="https://github-readme-stats.vercel.app/api?username=jawad-zafari&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-zafari&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -46,7 +45,7 @@ Développeur Web étudiant à La Plateforme 🚀
 
 <p align="center">
   <img height="180em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jawad-zafari&layout=compact&theme=tokyonight&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=jawad-zafari&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -55,12 +54,12 @@ Développeur Web étudiant à La Plateforme 🚀
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/jawad-zafari">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
 <a href="mailto:jawad.zafari@laplateforme.io">
   <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/jawad-zafari">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
