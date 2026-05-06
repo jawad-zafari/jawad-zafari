@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jawad-zafari&theme=nord&no-bg=true&margin-w=15" alt="jawad-zafari trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=jawad-zafari&theme=algolia&no-bg=true&margin-w=15" alt="jawad-zafari trophies" />
   </a>
 </p>
 
