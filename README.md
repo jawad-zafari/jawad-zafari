@@ -35,7 +35,7 @@ Développeur Web étudiant à La Plateforme 🚀
 ## 📊 GitHub Stats
 
  <p align="center">
-  <img height="180em"
+  <img height="150em"
        src="https://github-readme-stats-sigma-five.vercel.app/api?username=jawad-zafari&show_icons=true&theme=tokyonight&hide_border=true" />
   
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-zafari&theme=tokyonight&hide_border=true"/>
