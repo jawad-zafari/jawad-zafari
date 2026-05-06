@@ -45,7 +45,7 @@ En pleine transition et apprentissage intensif, je me spécialise dans la créat
  <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jawad-zafari&show_icons=true&theme=tokyonight&hide_border=true" height="200" width="300" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jawad-zafari&theme=tokyonight&hide_border=true" height="200" width="300" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jawad-zafari&layout=compact&theme=tokyonight&hide_border=true" height="200" width="300" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jawad-zafari&layout=compact&theme=tokyonight&hide_border=true" height="200" width="300"  alt="Top Languages" />
 </div>
 
 ---
