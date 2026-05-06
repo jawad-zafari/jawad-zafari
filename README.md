@@ -58,6 +58,10 @@ Développeur Web étudiant à La Plateforme 🚀
   </picture>
 </div>
 ---
+
+
+---
+
 ## 🌐 Me contacter
 
 <p align="center">
@@ -71,10 +75,6 @@ Développeur Web étudiant à La Plateforme 🚀
 </a>
 
 </p>
-
----
-
-
 
 ---
 
