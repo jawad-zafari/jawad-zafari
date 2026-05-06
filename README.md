@@ -1,7 +1,7 @@
 <!-- Bannière -->
 <!-- Bannière -->
 <p align="center">
-  <img src="images/ban.png" alt="Banner" height="200"  width="1200"/>
+  <img src="images/ban.png" alt="Banner" height="250"  width="1200"/>
 </p>
 
 <h1 align="center">Salut 👋 Moi c'est Jawad </h1>
